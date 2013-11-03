@@ -1,3 +1,3 @@
 my-first-repo
 =============
-Test commit in new branch
+Test commit for merge from testBranchAfterFileMod in new branch
